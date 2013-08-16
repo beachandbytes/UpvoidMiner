@@ -1,6 +1,6 @@
 using System;
 using Engine;
-using Engine.Model;
+using Engine.Universe;
 using Engine.Modding;
 using Engine.Resources;
 using Engine.Scripting;

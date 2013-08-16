@@ -34,4 +34,12 @@
   <ItemGroup>
     <Compile Include="LocalScript.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Engine">
+      <HintPath>..\..\..\..\..\AssemblyCache\Engine.dll</HintPath>
+    </Reference>
+    <Reference Include="ScriptingHelper">
+      <HintPath>..\..\..\..\..\AssemblyCache\ScriptingHelper.dll</HintPath>
+    </Reference>
+  </ItemGroup>
 </Project>
